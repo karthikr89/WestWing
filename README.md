@@ -12,8 +12,8 @@ This project is a sample Westwing automation requirement
 ## Setup:
 * Install [Node](http://nodejs.org) (v14)
 * Follow setup steps described [here](http://www.protractortest.org/#/tutorial#setup)
-* `npm install` to install the project dependencies //optional
-* `npm install protractor -g` to install protractor globally //optional
+* `npm install` to install the project dependencies
+* `npm install protractor -g` to install protractor globally
 * `npm install webdriver-manager -g` to install webdriver-manager globally
 * Now install selenium standalone- `webdriver-manager update`
 * In a separate command line window, run `webdriver-manager start` and keep it running.
