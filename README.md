@@ -27,3 +27,6 @@ This project is a sample Westwing automation requirement
 * Open index.html file from the respective folder to view the results
 * Screenshots will be attached to the steps that can be viewed from the browser results
 "# WestWing" 
+
+## Docker config
+* DockerFile holds the docker run steps
