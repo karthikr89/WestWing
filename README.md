@@ -19,12 +19,12 @@ This project is a sample Westwing automation requirement
 * In a separate command line window, run `webdriver-manager start` and keep it running.
 
 ## Run tests:
-* `npm run e2e` - Run tests in the base url
+* `npm run e2e` - Runs test in the base url
 * For multi environments, we can configure the tests as per different run environments
 
 ## Post run results
-* Post the e2e script runs, the results will be populated in ./test-reports/**
-* Open index.html file from the respective folder to view the results
+* Post the e2e script runs, the results will be populated in `./test-reports/**`
+* Open `index.html` file from the respective folder to view the results
 * Screenshots will be attached to the steps that can be viewed from the browser results
 "# WestWing" 
 
