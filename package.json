@@ -1,0 +1,23 @@
+{
+  "name": "westwing",
+  "version": "1.0.0",
+  "scripts": {
+    "tsc": "tsc",
+    "e2e": "protractor protractor.config.js",
+    "headless": "npm run e2e --args=['--headless', '--disable-gpu', '--window-size=1920,1080']"
+  },
+  "dependencies": {
+    "@types/jasmine": "^2.5.54",
+    "@types/node": "~11.9.3",
+    "encryptjs": "^2.0.0",
+    "jasmine": "^2.99.0",
+    "protractor": "^7.0.0",
+    "protractor-beautiful-reporter": "^1.3.6",
+    "webdriver-manager": "^12.1.8"
+  },
+  "devDependencies": {
+    "@types/node": "^6.14.9",
+    "ts-node": "^3.3.0",
+    "typescript": "^2.9.2"
+  }
+}
