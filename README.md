@@ -29,4 +29,4 @@ This project is a sample Westwing automation requirement
 "# WestWing" 
 
 ## Docker config
-* DockerFile holds the docker run steps
+* `DockerFile` holds the docker run steps
