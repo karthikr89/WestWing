@@ -6,12 +6,15 @@ This project is a sample Westwing automation requirement
 * Makes use of Page Objects.
 * Written in Typescript, compiled to ES5 Javascript.
 * Page Object classes are in the `./src/pages` directory and should inherit from `common-page.ts`.
-* Specs scripts are in the `./src/specs` directory, grouped into directory by page or functionality.
+* Specs scripts are in the `./src/specs` directory.
 * Mock data are in `./src/data` directory.
 
 ## Setup:
 * Install [Node](http://nodejs.org) (v14)
+* Install [GIT] (optional)
+* Download the repository
 * Follow setup steps described [here](http://www.protractortest.org/#/tutorial#setup)
+* Open the repo and follow the below steps from repo path
 * `npm install` to install the project dependencies
 * `npm install protractor -g` to install protractor globally
 * `npm install webdriver-manager -g` to install webdriver-manager globally
