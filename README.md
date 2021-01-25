@@ -30,5 +30,7 @@ This project is a sample Westwing automation requirement
 
 ## Docker config
 * `DockerFile` holds the docker run steps
+* `.dockerignore` file is similar to `.gitignore` that ignores the files to be copied to image
+* `docker-compose` file holds the configurations to extend docker capability
 * to build the image run `docker build -t westwing .`
 * to run docker build and copy/generate reports from container, run `docker-compose up`
