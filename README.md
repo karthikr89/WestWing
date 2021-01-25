@@ -31,4 +31,4 @@ This project is a sample Westwing automation requirement
 ## Docker config
 * `DockerFile` holds the docker run steps
 * to build the image run `docker build -t westwing .`
-* post docker build, to copy/generate reports from container, run `docker-compose up`
+* to run docker build and copy/generate reports from container, run `docker-compose up`
