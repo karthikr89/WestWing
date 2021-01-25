@@ -1,0 +1,9 @@
+version: '20.10.2'
+services:
+    westwing_test:
+      image: westwing_compose
+      build:
+          context: .
+          dockerfile: ./DockerFile
+      volumes:
+          - ./dockerReports:/app/westwing/test-reports    
